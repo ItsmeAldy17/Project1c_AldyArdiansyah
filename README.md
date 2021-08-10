@@ -1,4 +1,4 @@
-# Project1b_AldyArdiansyah
+# Project1c_AldyArdiansyah
 
 Aplikasi List View Menggunakan Java (Android Studio)
 
